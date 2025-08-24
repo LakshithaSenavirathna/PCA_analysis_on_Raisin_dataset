@@ -99,8 +99,8 @@ raisin-pca-analysis/
 ### Model Performance Comparison
 | Model Type | Accuracy | Features Used |
 |------------|----------|---------------|
-| Original Features | [Accuracy from original model] | 7 features |
-| PCA Components | [Accuracy from PCA model] | 3 components |
+| Original Features | 0.8577778  | 7 features   |
+| PCA Components    | 0.8655556  | 3 components |
 
 > **Note**: The PCA model maintains comparable accuracy while using fewer features, demonstrating effective dimensionality reduction.
 
